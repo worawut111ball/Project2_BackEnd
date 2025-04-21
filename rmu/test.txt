@@ -1,0 +1,6 @@
+สร้าง DB
+cd D:\GitHub\Project2_BackEnd\rmu
+mvn clean install
+mvn spring-boot:run
+
+npm i -f

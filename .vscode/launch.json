@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Spring Boot-RmuApplication<rmu>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.it.rmu.rmu.RmuApplication",
+            "projectName": "rmu",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
